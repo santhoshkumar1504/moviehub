@@ -13,7 +13,6 @@ export const UseFetch = (apiPath,queryTerm="") => {
         
         fetchMovie();
     },[url]);
-console.log(data,data);
 
   return {data};
 }
