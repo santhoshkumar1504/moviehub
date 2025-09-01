@@ -1,12 +1,30 @@
-# React + Vite
+🎬 MovieHub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MovieHub is a React-based movie discovery application powered by the TMDB (The Movie Database) API
+. It allows users to browse, search, and explore trending movies, TV shows, and actors with a clean UI.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔍 Search Movies & TV Shows by title
 
-## Expanding the ESLint configuration
+📈 Trending Movies of the week/day
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎞️ Movie & TV Show Details – cast, ratings, release date, runtime, genres
+
+⭐ Top Rated & Popular sections
+
+🖼️ High-quality poster and backdrop images
+
+📱 Responsive design for mobile and desktop
+
+⚡ Fast UI with React
+
+🛠️ Tech Stack
+
+Frontend: React, React Router, fetch
+
+Styling: CSS Modules 
+
+API: TMDB API
+
+State Management: React Hooks / Context API
